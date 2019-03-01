@@ -14,6 +14,7 @@
 * [Square into Squares. Protect trees!](./js/4-kyu/square-into-squares-protect-trees.js) - [4 kyu](https://www.codewars.com/kata/54eb33e5bc1a25440d000891)
 * [Sum Strings as Numbers](./js/4-kyu/sum-strings-as-numbers.js) - [4 kyu](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
 * [Human readable duration format](./js/4-kyu/human-readable-duration-format.js) - [4 kyu](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
+* [Large Factorials](./js/4-kyu/large-factorials.js) - [4 kyu](https://www.codewars.com/kata/557f6437bf8dcdd135000010)
 
 ### 5 kyu
 
