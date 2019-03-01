@@ -4,6 +4,10 @@
 
 ## Javascript
 
+### 3 kyu
+
+* [Screen Locking Patterns](./js/3-kyu/screen-locking-patterns.js) - [3 kyu](https://www.codewars.com/kata/585894545a8a07255e0002f1)
+
 ### 4 kyu
 
 * [Recover a secret string from random triplets](./js/4-kyu/recover-a-secret-string-from-random-triplets.js) - [4 kyu](https://www.codewars.com/kata/53f40dff5f9d31b813000774)
