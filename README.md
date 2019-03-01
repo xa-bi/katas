@@ -27,7 +27,7 @@
 * [Rot13](./js/5-kyu/rot13.js) - [5 kyu](https://www.codewars.com/users/xa_bi/completed_solutions)
 * [Calculating with Functions](./js/5-kyu/calculating-with-functions.js) - [5 kyu](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Pete, the baker](./js/5-kyu/pete-the-baker.js) - [5 kyu](https://www.codewars.com/kata/525c65e51bf619685c000059)
-* [PaginationHelper](./js/5-kyu/pagination-helper.js) - [5 kyu](ttps://www.codewars.com/kata/515bb423de843ea99400000a)
+* [PaginationHelper](./js/5-kyu/pagination-helper.js) - [5 kyu](https://www.codewars.com/kata/515bb423de843ea99400000a)
 * [RGB To Hex Conversion](./js/5-kyu/rgb-to-hex-conversion.js) - [5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
 ### 6 kyu
