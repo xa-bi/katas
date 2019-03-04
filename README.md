@@ -4,6 +4,10 @@
 
 ## Javascript
 
+### 2 kyu
+
+* [Assembler interpreter (part II)](./js/2-kyu/assembler-interpreter_part_ii.js) - [View kata details](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
+
 ### 3 kyu
 
 * [Screen Locking Patterns](./js/3-kyu/screen-locking-patterns.js) - [View kata details](https://www.codewars.com/kata/585894545a8a07255e0002f1)
