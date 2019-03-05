@@ -10,6 +10,7 @@
 
 ### 3 kyu
 
+* [Help the general decode secret enemy messages](./js/3-kyu/help_the_general_decode_secret_enemy_messages.js) - [View kata details](https://www.codewars.com/kata/52cf02cd825aef67070008fa)
 * [Screen Locking Patterns](./js/3-kyu/screen-locking-patterns.js) - [View kata details](https://www.codewars.com/kata/585894545a8a07255e0002f1)
 
 ### 4 kyu
