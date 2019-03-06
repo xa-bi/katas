@@ -7,6 +7,7 @@
 ### 2 kyu
 
 * [Assembler interpreter (part II)](./js/2-kyu/assembler-interpreter_part_ii.js) - [View kata details](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
+* [Flou--Play game Series #9](./js/2-kyu/flou_play_game_series_9.js) - [View kata details](https://www.codewars.com/kata/5a93754d0025e98fde000048)
 
 ### 3 kyu
 
