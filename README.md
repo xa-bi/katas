@@ -4,6 +4,10 @@
 
 ## Javascript
 
+### 1 kyu
+
+* [Mine Sweeper)](./js/1-kyu/mine-sweeper.js) - [View kata details](https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa)
+
 ### 2 kyu
 
 * [Assembler interpreter (part II)](./js/2-kyu/assembler-interpreter_part_ii.js) - [View kata details](https://www.codewars.com/kata/58e61f3d8ff24f774400002c)
