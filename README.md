@@ -6,7 +6,7 @@
 
 ### 1 kyu
 
-* [Mine Sweeper)](./js/1-kyu/mine-sweeper.js) - [View kata details](https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa)
+* [Mine Sweeper](./js/1-kyu/mine-sweeper.js) - [View kata details](https://www.codewars.com/kata/57ff9d3b8f7dda23130015fa)
 
 ### 2 kyu
 
